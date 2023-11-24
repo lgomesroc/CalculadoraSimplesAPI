@@ -31,3 +31,36 @@ D:\Programas testes\CalculadoraSimplesAPI\obj\Debug\net7.0\refint\CalculadoraSim
 D:\Programas testes\CalculadoraSimplesAPI\obj\Debug\net7.0\CalculadoraSimplesAPI.pdb
 D:\Programas testes\CalculadoraSimplesAPI\obj\Debug\net7.0\CalculadoraSimplesAPI.genruntimeconfig.cache
 D:\Programas testes\CalculadoraSimplesAPI\obj\Debug\net7.0\ref\CalculadoraSimplesAPI.dll
+D:\Projetos\CalculadoraSimplesAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\Projetos\CalculadoraSimplesAPI\bin\Debug\net7.0\appsettings.json
+D:\Projetos\CalculadoraSimplesAPI\bin\Debug\net7.0\CalculadoraSimplesAPI.exe
+D:\Projetos\CalculadoraSimplesAPI\bin\Debug\net7.0\CalculadoraSimplesAPI.deps.json
+D:\Projetos\CalculadoraSimplesAPI\bin\Debug\net7.0\CalculadoraSimplesAPI.runtimeconfig.json
+D:\Projetos\CalculadoraSimplesAPI\bin\Debug\net7.0\CalculadoraSimplesAPI.dll
+D:\Projetos\CalculadoraSimplesAPI\bin\Debug\net7.0\CalculadoraSimplesAPI.pdb
+D:\Projetos\CalculadoraSimplesAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Projetos\CalculadoraSimplesAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Projetos\CalculadoraSimplesAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projetos\CalculadoraSimplesAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projetos\CalculadoraSimplesAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projetos\CalculadoraSimplesAPI\obj\Debug\net7.0\CalculadoraSimplesAPI.csproj.AssemblyReference.cache
+D:\Projetos\CalculadoraSimplesAPI\obj\Debug\net7.0\CalculadoraSimplesAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\CalculadoraSimplesAPI\obj\Debug\net7.0\CalculadoraSimplesAPI.AssemblyInfoInputs.cache
+D:\Projetos\CalculadoraSimplesAPI\obj\Debug\net7.0\CalculadoraSimplesAPI.AssemblyInfo.cs
+D:\Projetos\CalculadoraSimplesAPI\obj\Debug\net7.0\CalculadoraSimplesAPI.csproj.CoreCompileInputs.cache
+D:\Projetos\CalculadoraSimplesAPI\obj\Debug\net7.0\CalculadoraSimplesAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Projetos\CalculadoraSimplesAPI\obj\Debug\net7.0\CalculadoraSimplesAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projetos\CalculadoraSimplesAPI\obj\Debug\net7.0\staticwebassets\msbuild.CalculadoraSimplesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projetos\CalculadoraSimplesAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.CalculadoraSimplesAPI.props
+D:\Projetos\CalculadoraSimplesAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CalculadoraSimplesAPI.props
+D:\Projetos\CalculadoraSimplesAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CalculadoraSimplesAPI.props
+D:\Projetos\CalculadoraSimplesAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Projetos\CalculadoraSimplesAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\Projetos\CalculadoraSimplesAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\Projetos\CalculadoraSimplesAPI\obj\Debug\net7.0\scopedcss\bundle\CalculadoraSimplesAPI.styles.css
+D:\Projetos\CalculadoraSimplesAPI\obj\Debug\net7.0\CalculadoraSimplesAPI.csproj.CopyComplete
+D:\Projetos\CalculadoraSimplesAPI\obj\Debug\net7.0\CalculadoraSimplesAPI.dll
+D:\Projetos\CalculadoraSimplesAPI\obj\Debug\net7.0\refint\CalculadoraSimplesAPI.dll
+D:\Projetos\CalculadoraSimplesAPI\obj\Debug\net7.0\CalculadoraSimplesAPI.pdb
+D:\Projetos\CalculadoraSimplesAPI\obj\Debug\net7.0\CalculadoraSimplesAPI.genruntimeconfig.cache
+D:\Projetos\CalculadoraSimplesAPI\obj\Debug\net7.0\ref\CalculadoraSimplesAPI.dll
