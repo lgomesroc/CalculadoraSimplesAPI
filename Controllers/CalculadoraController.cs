@@ -3,68 +3,61 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using CalculadoraSimplesAPI.Models;
+using CalculadoraSimplesAPI.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CalculadoraSimplesAPI.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class CalculadoraController : Controller
+    public class CalculadoraController : ControllerBase
     {
-        [HttpGet("Somar")]
-        public ActionResult<Calculadora> Somar(double valor1, double valor2)
+        private readonly ICalculadoraService _calculadoraService;
+        public CalculadoraController(ICalculadoraService calculadoraService)
         {
-            var calc = new Calculadora(valor1, valor2);
-            calc.somar();
-            return Ok(calc);
+            _calculadoraService = calculadoraService;
+        }
+
+        [HttpGet("Somar")]
+        public IActionResult Somar(double valor1, double valor2)
+        {
+            return Ok(_calculadoraService.somar(valor1, valor2));
         }
 
         [HttpGet("Subtrair")]
-        public ActionResult<Calculadora> Subtrair(double valor1, double valor2)
+        public IActionResult Subtrair(double valor1, double valor2)
         {
-            var calc = new Calculadora(valor1, valor2);
-            calc.subtrair();
-            return Ok(calc);
+            return Ok(_calculadoraService.subtrair(valor1, valor2));
         }
 
         [HttpGet("Multiplicar")]
-        public ActionResult<Calculadora> Multiplicar(double valor1, double valor2)
+        public IActionResult Multiplicar(double valor1, double valor2)
         {
-            var calc = new Calculadora(valor1, valor2);
-            calc.multiplicar();
-            return Ok(calc);
+            return Ok(_calculadoraService.multiplicar(valor1, valor2));
         }
 
         [HttpGet("Dividir")]
-        public ActionResult<Calculadora> Dividir(double valor1, double valor2)
+        public IActionResult Dividir(double valor1, double valor2)
         {
-            var calc = new Calculadora(valor1, valor2);
-            calc.dividir();
-            return Ok(calc);
+            return Ok(_calculadoraService.dividir(valor1, valor2));
         }
 
         [HttpGet("Potencializar")]
-        public ActionResult<Calculadora> Potencializar(double valor1, double valor2)
+        public IActionResult Potencializar(double valor1, double valor2)
         {
-            var calc = new Calculadora(valor1, valor2);
-            calc.potencializar();
-            return Ok(calc);
+            return Ok(_calculadoraService.potencializar(valor1, valor2));
         }
 
         [HttpGet("Radicionalizar")]
-        public ActionResult<Calculadora> Radicionalizar(double valor1, double valor2)
+        public IActionResult Radicionalizar(double valor1, double valor2)
         {
-            var calc = new Calculadora(valor1, valor2);
-            calc.radicionalizar();
-            return Ok(calc);
+            return Ok(_calculadoraService.radicionalizar(valor1, valor2));
         }
 
         [HttpGet("Percentualizar")]
-        public ActionResult<Calculadora> Percentualizar(double valor1, double valor2)
+        public IActionResult Percentualizar(double valor1, double valor2)
         {
-            var calc = new Calculadora(valor1, valor2);
-            calc.percentualizar();
-            return Ok(calc);
+            return Ok(_calculadoraService.percentualizar(valor1, valor2));
         }
     }
 }

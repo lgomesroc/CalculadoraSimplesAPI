@@ -469,24 +469,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lgome\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\micha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programas testes\\CalculadoraSimplesAPI\\CalculadoraSimplesAPI.csproj",
+      "projectUniqueName": "D:\\Projetos\\CalculadoraSimplesAPI\\CalculadoraSimplesAPI.csproj",
       "projectName": "CalculadoraSimplesAPI",
-      "projectPath": "D:\\Programas testes\\CalculadoraSimplesAPI\\CalculadoraSimplesAPI.csproj",
-      "packagesPath": "C:\\Users\\lgome\\.nuget\\packages\\",
-      "outputPath": "D:\\Programas testes\\CalculadoraSimplesAPI\\obj\\",
+      "projectPath": "D:\\Projetos\\CalculadoraSimplesAPI\\CalculadoraSimplesAPI.csproj",
+      "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
+      "outputPath": "D:\\Projetos\\CalculadoraSimplesAPI\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\lgome\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -540,7 +535,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
